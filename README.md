@@ -42,7 +42,7 @@ The script generates several plots to explore the data:
 * **seaborn** – For clean and modern graph styling
 
 
-## ▶️ How to Run
+## How to Run
 
 1. Make sure you have Python 3 installed.
 2. Install the required libraries:
